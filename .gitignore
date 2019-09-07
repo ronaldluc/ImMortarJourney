@@ -295,3 +295,10 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/c++,clion,python,pycharm
+
+
+# data
+data/*
+*.jpg
+*.mp4
+*/data/*
